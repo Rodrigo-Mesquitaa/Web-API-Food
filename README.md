@@ -1,7 +1,11 @@
 # Web-API-Food
 Projeto aplicação web, Realizado em .NET 6- preview. Projeto back end Food monstrando os métodos https.
 
-
+# Preview
+<img src ="https://github.com/Rodrigo-Mesquitaa/Web-API-Food/blob/main/API-Food/Previews/homeSwagger.png">
+<img src ="https://github.com/Rodrigo-Mesquitaa/Web-API-Food/blob/main/API-Food/Previews/funcionamento.png>
+     
+     
 # Metodos Https.
 
 - GET
